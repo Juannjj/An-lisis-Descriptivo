@@ -1,0 +1,6 @@
+{
+  "name": "DataSense AI - Explorador y Analizador de Datos",
+  "description": "Plataforma integral para análisis exploratorio de datos (EDA), importación de archivos TXT, CSV, Excel, estadísticas descriptivas, histogramas, diagramas de dispersión y cajas (BoxPlots), análisis experto de tendencias con Gemini y exportación de informes en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
